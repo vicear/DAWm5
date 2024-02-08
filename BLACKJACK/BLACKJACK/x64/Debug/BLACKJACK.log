@@ -1,0 +1,3 @@
+﻿  BLACKJACK.cpp
+C:\Users\victorceparm\OneDrive - Centre d'Estudis Monlau\Grado superior DAW\M5\HelloWorldC\BLACKJACK\BLACKJACK\BLACKJACK.cpp(45,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BLACKJACK.vcxproj -> C:\Users\victorceparm\OneDrive - Centre d'Estudis Monlau\Grado superior DAW\M5\HelloWorldC\BLACKJACK\x64\Debug\BLACKJACK.exe
